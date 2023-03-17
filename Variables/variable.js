@@ -1,3 +1,8 @@
-let message = 'Hello'; // declara variable and assign data to it
+let message = 'Hello'; // declare a variable and assign data to it
+
+message = 'World'; // changed value
 
 alert(message);
+
+
+
